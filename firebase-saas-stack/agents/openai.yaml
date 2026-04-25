@@ -1,0 +1,4 @@
+interface:
+  display_name: "Firebase SaaS Stack"
+  short_description: "Plan secure Firebase SaaS backends"
+  default_prompt: "Use $firebase-saas-stack to evaluate and implement a secure Firebase-backed SaaS stack."
