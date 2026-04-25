@@ -1,6 +1,8 @@
 ---
-name: "firebase-saas-stack"
-description: "Evaluate and implement secure Firebase SaaS stacks for customer-facing workflow apps."
+name: firebase-saas-stack
+description: >-
+  Evaluate and implement secure Firebase SaaS stacks for customer-facing
+  workflow apps.
 ---
 
 # Firebase SaaS Stack
